@@ -18,10 +18,8 @@ public class WebposIntegration {
     private static String retail_email   = "12312@agilizeapp.com";
     private static String retail_user_id = null;
     private static String retail_pwd     = "OtiF8p^0Spk^";
-    private static String tip_amount     = .1;      // <-- If retailer has tips
-    private static String convenienceTax = 0.00;    // <-- If retailer charges convenience tax
-
-
+    private static double tip_amount     = 0.1;      // <-- If retailer has tips
+    private static double convenienceTax = 0.00;    // <-- If retailer charges convenience tax
 }
 
 /*
@@ -180,6 +178,7 @@ public class WebposIntegration {
 
 */
 
+/*
     public static void returnError(String error_code, String error_message) {
         try {
             data.response = {};
@@ -208,3 +207,4 @@ public class WebposIntegration {
         }
     }
 }
+*/

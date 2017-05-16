@@ -39,9 +39,13 @@ public class SitBack extends JPanel implements ActionListener, DatabaseReference
 
 
     //http://stackoverflow.com/questions/2451892/how-do-i-connect-to-a-sql-server-2008-database-using-jdbc
-    private String userName = "tmp";
-    private String password = "#%2Fcompleted";
-    private String connectionUrl = "jdbc:sqlserver://tmp.database.windows.net;databaseName=tmp";
+    //private String userName = "tmp";
+    //private String password = "#%2Fcompleted";
+    //private String connectionUrl = "jdbc:sqlserver://tmp.database.windows.net;databaseName=tmp";
+
+    private String userName = "agilize";
+    private String password = "agilize";
+    private String connectionUrl = "jdbc:sqlserver://192.168.2.200;databaseName=MISTERCHEFNET";
 
     private FirebaseDatabase db;
     private DatabaseReference ref;
@@ -67,10 +71,14 @@ public class SitBack extends JPanel implements ActionListener, DatabaseReference
             Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
             conn = DriverManager.getConnection(connectionUrl,userName,password);
 
+            System.out.println("teste a");
+
             // Create and execute an SQL statement that returns some data.
             String SQL = "SELECT TOP 10 * FROM Person.Contact";
             stmt = con.createStatement();
             rs = stmt.executeQuery(SQL);
+
+            System.out.println("teste b");
 
             // Iterate through the data in the result set and display it.
             while (rs.next()) {
