@@ -1,0 +1,13 @@
+apply plugin: 'application'
+
+mainClassName = "com.daose.sitback.SitBack"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'com.google.firebase:firebase-server-sdk:[3.0.0,)'
+    compile 'com.google.firebase:firebase-admin:4.1.7'
+    compile "com.microsoft.sqlserver:mssql-jdbc:6.1.0.jre8"
+}

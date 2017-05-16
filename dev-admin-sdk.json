@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "flickering-fire-12",
+  "private_key_id": "0d162a847267bf31fb5a1cc6183a18aa50f2cae1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCakNsVemrPE3Tx\nnD3Rgas9cvWwQWAV2J3GsA1rnoiprYsk5qLWgMBv0GYSB3fABc25CVXcoqhEdy7Q\n4m9h9/vPLHUnruYjNAnQMC4rnpV/LiNGKqgZijzpFmPRGayJiu36S1p8Kaw3nnQm\nDiBtcUafblEW6fChqp8ZfOgni3QKTQXxI5gyGGPiG2VUCwBslr3V7NoQjkKYH6aQ\nHgoIYhVlldhhy++P3QBQDYB7V2wzpqqGQMh0XB0jdOGNlm2Y7o/k9zqDbxG+JlMY\n/pgMtZY59VNA+zZyDNNGvmLDtq2kANsNqIMB+yFxjHSECYVfW7rnNbWX/L+8PP+f\nzX6EMdorAgMBAAECggEBAJMmn30WO8ODWY2AWxYvZhCtdpxj0Q9bV/JFv7EakC9C\nKjtqW9LtZsfM1rAJbgdhPxcPfS/9p0bvVKHHQZU6mwAE6lBqYW1YaJNMm1gptVgM\nW8a8a6dNBWo/R65Vy/5yRthIjw+wOOYGs7tbLaIj+sFkLE0tUUsIfkmssfSb/lCi\nwjHIrEg5PI59SX+X2L84fu5l+TfulrYzSQri7F1IhhMuoJQo4qQHaMO+/+HsKRJj\nnmihOrSchg1XDw04uDGZagJkd1KVB3PsLpkzUQYh5lu4Pgpsa58nVhjvgzAzqj6D\n2QJn4XzGKr4YwUpkYpYssP+pueNtoBWtJ030+ctynYkCgYEA04AhdR0H5aVuj+D3\nYj8WRfmvI8qsTaug5+cT57JvAWMctt38zgZ2NrbY3tbacEsKBg9CDFiXbGgNxB1I\nT3e67WsxAgiDa0874m/cHDvaLaurF6gUYy3TYGHcCnN3nNG6W7MKNTvpiOATzXOr\nSvhCCwO9TYqggvSvEhVGk4e1dW0CgYEAuxYaL0GiKeeSIq1Yq551BBsxtDrlQcyH\nSDvoUONHVh5pcSKLha35xV8oLzJ7PYFrAT/lo6rbM3BEi5/Pl02RvkU2bV0ktwBg\nsPMMA7sVJwHpJeTF3IMqO9e6NF9Eo8++Ue61k5vNAOtcx3cE1N8Ae0HynN6qcF+x\njfXxa8+xBvcCgYEAuErD3JqpUO/wASsUJOW38M16UQO/VAajNK9j5tbSZzEHykhw\nis2SoGZ/Xt10hbi9ST5uXPetKmcY57RkV+qKVWq7z3u/l/f4xHyYHXoByR32/awV\n5738m9VpuSmYJmuRqWm/EVfdTMmEN9f8gF0GnzZo83JCHxo6mtUzJEZyVZkCgYEA\nuBydMipGGzUQRF4RZ/strxfQB0z6dpGABJ8oFgpFFsQhAjx7z9eReSIXGrN0QugM\n1RL7u+CVjX6LhliEY6LrrbLRSDkku498mEbnaPiAbX3c4vTLnyHZu0Cmt4mVtBvq\ncRkYyiXGToRRLt66+35mK+aPir86PhJ+WnVR28ZtsasCgYBXrAdap6nAC4tthV7p\nitpKqvsi+Vvks4NLFcYVbhXpaubQBxWzVj0HD5VdT7mHL78DJuZOlm5/Dc4iJLjg\n7Kjjcsr45GSZVf8pkYPzCrvQzjZ1fK4x/xk7A8Ly/JjMG/bC5ypMxYnSJCT9jIjJ\n0QcTITyM8ZRyedk8Yw7li6ILNA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-6dfyl@flickering-fire-12.iam.gserviceaccount.com",
+  "client_id": "117253987816694601349",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-6dfyl%40flickering-fire-12.iam.gserviceaccount.com"
+}
